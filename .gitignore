@@ -1,2 +1,11 @@
+# Mac specific
 .DS_Store
+
+#python cach files
 __pycache__/
+
+# For python virtual enviroment 
+bin/
+lib/
+include/
+pyvenv.cfg
